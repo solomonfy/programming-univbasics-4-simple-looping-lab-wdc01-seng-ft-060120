@@ -19,6 +19,8 @@ end
 
 def output_array(array)
   puts output_array
+  puts output_array
+  puts output_array
 end
 
 def return_string_array(array)
