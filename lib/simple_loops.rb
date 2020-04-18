@@ -17,7 +17,7 @@ def loop_message_n_times(message, number)
   end
 end
 
-def output_array(message, 3)
+def output_array(array)
   puts output_array
   puts output_array
   puts output_array
