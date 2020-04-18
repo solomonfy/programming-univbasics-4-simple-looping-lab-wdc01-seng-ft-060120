@@ -16,4 +16,3 @@ def loop_message_n_times(message, non_stop)
     count +=1
   end
 end
-
