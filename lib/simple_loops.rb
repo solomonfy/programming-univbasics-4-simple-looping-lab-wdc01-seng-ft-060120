@@ -18,9 +18,8 @@ def loop_message_n_times(message, number)
 end
 
 def output_array(array)
-  puts output_array
-  puts output_array
-  puts output_array
+  quote = []
+  output_array(quote)
 end
 
 def return_string_array(array)
