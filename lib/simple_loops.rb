@@ -21,7 +21,7 @@ def output_array(message, 3)
   puts output_array
   puts output_array
   puts output_array
-    
+
   end
-  
+
 end
