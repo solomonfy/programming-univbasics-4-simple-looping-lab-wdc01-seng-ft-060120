@@ -16,3 +16,12 @@ def loop_message_n_times(message, number)
     count +=1
   end
 end
+
+def output_array(message, 3)
+  puts output_array
+  puts output_array
+  puts output_array
+    
+  end
+  
+end
